@@ -12,7 +12,7 @@ It is written in assembly (NASM) and runs on QEMU.
 - VGA text mode output for displaying messages
 - Keyboard input
 - Planned features:
-  - Familiar-style interactive prompt
+  - Familiar prompt
   - Simple file manager
 
 ---
