@@ -10,8 +10,8 @@ It is written in assembly (NASM) and runs on QEMU.
 - Transition from Real Mode (16-bit) to Protected Mode (32-bit)
 - Load and execute a custom kernel from disk
 - VGA text mode output for displaying messages
+- Keyboard input
 - Planned features:
-  - Keyboard input
   - Familiar-style interactive prompt
   - Simple file manager
 
