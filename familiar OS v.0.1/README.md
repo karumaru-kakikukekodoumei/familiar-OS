@@ -3,6 +3,8 @@
 **familiar OS** は、x86向けに一から自作しているシンプルなブート可能OSです。  
 NASMでアセンブリを書き、QEMUで動作確認しています。
 
+![familiar OS スクリーンショット](docs/screenshot.png)
+
 ---
 
 ## 特徴
